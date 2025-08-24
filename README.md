@@ -45,7 +45,7 @@ This is a **proof-of-concept (POC)** for a notification system for the Insyd pla
 
 ### Backend
 1. Navigate to the backend folder:
-```bash
+
 cd backend
 Install dependencies:
 
@@ -100,14 +100,4 @@ Backend: https://github.com/MaheshVeeraboina/insyd-backend-final
 
 Frontend: https://github.com/MaheshVeeraboina/insyd-frontend
 
-License
-MIT License
 
-yaml
-Copy code
-
----
-
-If you want, I can **also create a ready-to-push README with badges, screenshots, and deployment links** so it looks more professional on GitHub.  
-
-Do you want me to do that?
